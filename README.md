@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to MusicApp 
+This is a beta, so please alert me for problems or bugs!
 
-You can use the [editor on GitHub](https://github.com/MatteoMarzio/MusicApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Functions
 
-### Markdown
+MusicApp allows users to listen to music everywhere (like Spotify or Deezer). In this case this app is considered for personal-use only. So is not my fault if you publish copyrighted music. I provide only the application.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Versions and Characteristics
+__Version 1.0__
 
-```markdown
-Syntax highlighted code block
+  - No multiple file uploading allowed
+  - All users can modify albums and songs
+  - No advanced protection (only hash + salt)
+  - No personal user profile
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatteoMarzio/MusicApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me if you have problems!
+This will help me to improve English and Computer Science knowledge!
+My email : matteomarzio@gmail.com
+
+__Remember that I will respond to You if the subject of the email contains Github and MusicApp__!
