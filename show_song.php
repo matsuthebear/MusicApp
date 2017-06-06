@@ -1,7 +1,7 @@
 <?php
 	include('header.php');
 	include('database/db.php');
-    include('check.php');
+        include('check.php');
 	echo('<main>');
 	$query ="SELECT * FROM song as s,album as a
 			WHERE a.id = s.album ORDER BY s.title DESC";
