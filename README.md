@@ -1,5 +1,7 @@
 ## Welcome to MusicApp 
-This is a beta, so please alert me for problems or bugs!
+
+
+__This is a project that i won't upgrade anymore. This is only an unstable and unsecure project intended only to learn how to use PHP, SQL and file extentions when uploading. Use only for educational purposes.__
 
 
 ### Functions
@@ -17,8 +19,4 @@ __Version 1.0__
 
 ### Support or Contact
 
-Contact me if you have problems!
-This will help me to improve English and Computer Science knowledge!
-My email : matteomarzio@gmail.com
-
-__Remember that I will respond to You if the subject of the email contains Github and MusicApp__!
+I won't offer anymore help for this code, because this project was a test to learn PHP, file uploads and SQL. 
